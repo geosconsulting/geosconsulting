@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geosconsulting
 - 👀 I’m interested in geospatial analysis, python, machine learning
-- 🌱 I’m currently learning python for Google Earth Engine
+- 🌱 I’m currently learning python for GeoAI
 - 💞️ I’m looking to collaborate on agricultural and co2 sequestration projects
 - 📫 How to reach me fabiolana@fabiolana.it
 
