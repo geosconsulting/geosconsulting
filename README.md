@@ -2,7 +2,7 @@
 - 👀 I’m interested in geospatial analysis, python, machine learning
 - 🌱 I’m currently learning python for GeoAI
 - 💞️ I’m looking to collaborate on agricultural and co2 sequestration projects
-- 📫 How to reach me fabiolana@fabiolana.it
+- 📫 How to reach me fabiolana@fabiolana.cloud
 
 <!---
 geosconsulting/geosconsulting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
